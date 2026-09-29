@@ -1,0 +1,25 @@
+# Ejecutables de Windows
+*.exe
+
+# Ejecutables compilados sin extensión
+comprueba
+p2_ej1
+p2_ej2
+p2_ej3
+p2_ej4
+p2_ej5
+
+# Archivos objeto
+*.o
+*.obj
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
